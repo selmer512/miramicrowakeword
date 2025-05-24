@@ -5,6 +5,5 @@
     "type": "tflite",
     "url": "https://raw.githubusercontent.com/selmer512/miramicrowakeword/main/Mira.tflite"
   },
-  "version": "1.0",
-  "tokenizers": ["default"]
+  "version": "1.0"
 }
